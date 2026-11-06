@@ -1,0 +1,6 @@
+2026-11-06 16:02:53,247 | INFO | ETL process is started
+2026-11-06 16:05:05,259 | INFO | ETL process is started
+2026-11-06 16:05:05,259 | INFO | Starting Extract
+2026-11-06 16:08:01,648 | INFO | ETL process is started
+2026-11-06 16:08:01,648 | INFO | Starting Extract
+2026-11-06 16:08:01,648 | ERROR | Error in extract [Errno 2] No such file or directory: 'C:\\Users\\selvi\\ETLBeginning\\data\\raw\\employees.csv'

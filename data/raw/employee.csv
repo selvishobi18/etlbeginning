@@ -1,0 +1,21 @@
+employee_id,name,department,salary,email,joining_date
+101,John Doe,IT,75000,john.doe@company.com,2021-03-15
+102,Jane Smith,HR,65000,jane.smith@company.com,2020-07-22
+103,Michael Brown,Finance,80000,michael.brown@company.com,2019-11-10
+104,Sarah Wilson,IT,,sarah.wilson@company.com,2022-01-05
+105,David Lee,Marketing,55000,david.lee@company.com,2021-09-18
+106,Emily Davis,HR,62000,,2020-12-01
+107,Robert King,Finance,90000,robert.king@company.com,
+108,Anna Taylor,IT,70000,anna.taylor@company.com,2023-02-11
+109,Chris Martin,Marketing,58000,chris.martin@company.com,
+110,Lisa White,HR,64000,lisa.white@company.com,2021-08-14
+105,David Lee,Marketing,55000,david.lee@company.com,2021-09-18
+108,Anna Taylor,IT,70000,anna.taylor@company.com,2023-02-11
+111,,IT,72000,no_name@company.com,2022-10-10
+112,Kevin Clark,,68000,kevin.clark@company.com,2021-04-25
+113,Nancy Green,Finance,,nancy.green@company.com,2020-05-19
+114,Tom Harris,Marketing,60000,,2022-07-07
+115,Rachel Scott,HR,63000,rachel.scott@company.com,2021-11-11
+116,Peter Young,IT,78000,peter.young@company.com,2020-02-29
+117,Amy Walker,Finance,85000,amy.walker@company.com,2021-05-05
+117,Amy Walker,Finance,85000,amy.walker@company.com,2021-05-05
